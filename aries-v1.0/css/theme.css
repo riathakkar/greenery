@@ -380,10 +380,10 @@ img {
 	-moz-transition:all 0.3s linear;
 	transition:all 0.3s linear;
 }
-/* .gallery ul li a:hover:before {
+ .gallery ul li a:hover:before {
 	top:50%;
-	opacity:1; */
-/* }
+	opacity:1; 
+}
 .gallery ul li a:after {
 	position:absolute;
 	width:100%;
@@ -398,16 +398,16 @@ img {
 }
 .gallery ul li a:hover:after {
 	opacity:1;
-} */
-/* section:after {
+} 
+ section:after {
 	float:none;
 	clear:both;
 }
 section {
 	background-color:#f9f9f9;
 	color:#333;
-	overflow:hidden; */
-/* }
+	overflow:hidden; 
+}
 .done {
 	display:none;
 }
@@ -417,7 +417,7 @@ section {
 	-webkit-transition:border linear 0.2s,box-shadow linear 0.2s;
 	-moz-transition:border linear 0.2s,box-shadow linear 0.2s;
 	-o-transition:border linear 0.2s,box-shadow linear 0.2s;
-	transition:border linear 0.2s,box-shadow linear 0.2s; */
+	transition:border linear 0.2s,box-shadow linear 0.2s;
 }
 #contactform input,#contactform textarea {
 	border:0px;
