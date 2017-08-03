@@ -349,14 +349,14 @@ img {
 	padding:0;
 	margin:5;
 }
-/* .gallery ul li {
+ .gallery ul li {
 	margin:5;
 	position:relative;
 	list-style:none;
 	float:left;
-	padding:0; */
+	padding:0; 
 }
-/* .gallery ul li a {
+ .gallery ul li a {
 	display:block;
 	position:relative;
 	width:100%;
@@ -364,7 +364,7 @@ img {
 	margin:5;
 	padding:0;
 	line-height:0;
-} */
+} 
 .gallery ul li a:before {
 	position:absolute;
 	width:32px;
