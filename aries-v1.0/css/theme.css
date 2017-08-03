@@ -337,17 +337,17 @@ p.lead {
 }
 img {
 	max-width:100%;
-	hspace:20; 
+	hspace:40; 
 }
 .gallery ul {
 	padding:0;
-	margin:0;
+	margin:10;
 }
 .gallery img {
 	max-width:100%;
 	height:auto;
 	padding:0;
-	margin:5;
+	margin:10;
 }
  .gallery ul li {
 	margin:5;
